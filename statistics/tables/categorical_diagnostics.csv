@@ -1,0 +1,4 @@
+feature,positive_level,rule,accuracy,sensitivity,specificity,kappa,tn,fp,fn,tp
+FAVC,Obesity,FAVC == yes,0.558503079,0.980452675,0.198419666,0.167573367,226,913,19,953
+family_history_with_overweight,Obesity,family_history_with_overweight == yes,0.63524396,0.991769547,0.330992098,0.305394477,377,762,8,964
+CAEC,Obesity,CAEC == Frequently,0.432496447,0.008230453,0.794556629,-0.208703698,905,234,964,8

@@ -1,0 +1,17 @@
+feature,type,min,max,values
+Age,continuous,14.0,61.0,
+Height,continuous,1.45,1.98,
+Weight,continuous,39.0,173.0,
+FCVC,continuous,1.0,3.0,
+NCP,continuous,1.0,4.0,
+CH2O,continuous,1.0,3.0,
+FAF,continuous,0.0,3.0,
+TUE,continuous,0.0,2.0,
+FAVC,discrete,,,"['no', 'yes']"
+SMOKE,discrete,,,"['no', 'yes']"
+SCC,discrete,,,"['no', 'yes']"
+Gender,discrete,,,"['Female', 'Male']"
+family_history_with_overweight,discrete,,,"['no', 'yes']"
+CAEC,discrete,,,"['Always', 'Frequently', 'Sometimes', 'no']"
+CALC,discrete,,,"['Always', 'Frequently', 'Sometimes', 'no']"
+MTRANS,discrete,,,"['Automobile', 'Bike', 'Motorbike', 'Public_Transportation', 'Walking']"
